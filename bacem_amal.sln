@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-A6AE-425E2E8F7A1F}") = "bacem_amal", "bacem_amal/bacem_amal.dtproj", "{2DA97783-B55F-4342-A982-6F2CDD7E382F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA97783-B55F-4342-A982-6F2CDD7E382F}.Development|Default.ActiveCfg = Development
+		{2DA97783-B55F-4342-A982-6F2CDD7E382F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DECDC29-8D4E-4E71-A067-9080B19EE8AA}
+	EndGlobalSection
+EndGlobal
